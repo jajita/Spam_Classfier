@@ -1,4 +1,4 @@
-# Spam_Classfier
+# Spam_Classifier
 The code uses Multinomial Naive Bayes Model to classify the set of emails as Spam or Not Spam 
 
 
